@@ -10,11 +10,11 @@
     
     <name>Struts 2 - Checkbox</name>
     <description>Tip Struts2 #15: Checkbox</description>
-    <url>http://danielme.com/tips-struts2/</url>
+    <url>http://danielme.com/tip-struts-2-15-checkboxes/</url>
     <inceptionYear>2014</inceptionYear>
     
     <scm>
-    	<url></url>
+    	<url>https://github.com/danielme-com/tip-Struts-2--15-checkbox</url>
     </scm>
     
     <licenses>
